@@ -1,16 +1,40 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: rgb(90, 172, 227);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }    
 h1 {
-    color: red;
+    color: rgb(103, 9, 204);
+    font-size: 50px;
 }
 p {
-    color: green;
+    color: rgb(255, 255, 255);
 }
 h2 {
     color: blue;
 }
 p {
-    front-size: 20px;
+    font-size: 25px;
+}
+body {
+    font-family: Arial;
+}
+h2 {
+    font-size: 40px;
+}
+body {
+    text-align: center;
+}
+main {
+    width: 800px;
+    margin: auto;
+}
+section {
+    margin-bottom: 25px;
+}
+section {
+    background-color: #222;
+    padding: 80px;
+    border-radius: 200px;
 }
