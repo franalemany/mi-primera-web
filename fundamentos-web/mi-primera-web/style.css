@@ -34,7 +34,18 @@ section {
     margin-bottom: 25px;
 }
 section {
-    background-color: #222;
+    background-color: #000000;
     padding: 80px;
     border-radius: 200px;
+}
+.tarjeta {
+    border: 3px solid red;
+}
+.importante {
+    background-color: darkred;
+}
+.hobbies {
+    background-color: green;
+    font-size: 15px;
+    color: pink;
 }
